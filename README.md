@@ -83,9 +83,6 @@ Just graduated the GA coding bootcamp from Feb- August 2021 part time for full s
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
