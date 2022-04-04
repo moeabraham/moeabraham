@@ -7,7 +7,7 @@
 Just graduated the GA coding bootcamp from Feb- August 2021 part time for full stack web development  
   
 
-- 🌱 I’m currently trying to work on solving algorithms and creating projects usgin JS, React  
+- 🌱 I’m currently trying to work on solving algorithms and creating projects using JS, React  
   
 
 
